@@ -1,3 +1,0 @@
-<?php
-
-    $routes['default'] = 'home';
